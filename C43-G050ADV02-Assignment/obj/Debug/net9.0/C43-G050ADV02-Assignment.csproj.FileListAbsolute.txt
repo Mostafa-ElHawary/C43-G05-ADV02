@@ -1,0 +1,15 @@
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\bin\Debug\net9.0\C43-G050ADV02-Assignment.exe
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\bin\Debug\net9.0\C43-G050ADV02-Assignment.deps.json
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\bin\Debug\net9.0\C43-G050ADV02-Assignment.runtimeconfig.json
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\bin\Debug\net9.0\C43-G050ADV02-Assignment.dll
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\bin\Debug\net9.0\C43-G050ADV02-Assignment.pdb
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\C43-G050ADV02-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\C43-G050ADV02-Assignment.AssemblyInfoInputs.cache
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\C43-G050ADV02-Assignment.AssemblyInfo.cs
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\C43-G050ADV02-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\C43-G050ADV02-Assignment.sourcelink.json
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\C43-G050ADV02-Assignment.dll
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\refint\C43-G050ADV02-Assignment.dll
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\C43-G050ADV02-Assignment.pdb
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\C43-G050ADV02-Assignment.genruntimeconfig.cache
+C:\Users\welcome\source\repos\C43-G05-ADV02\C43-G050ADV02-Assignment\obj\Debug\net9.0\ref\C43-G050ADV02-Assignment.dll
